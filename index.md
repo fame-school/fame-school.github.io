@@ -10,7 +10,7 @@ title: FAME – 2nd International School on Foundations and Advances of Model-Ba
 ---
 
 
-### September 23 – 25, 2026. [University of Malaga, Spain](./venue)
+### September 30 – October 2, 2026. [University of Malaga, Spain](./venue)
 
 ### Colocated with [MODELS'26](https://conf.researchr.org/home/models-2026){:target="_blank"}
 
