@@ -54,8 +54,7 @@ The school will also provide lectures to help students prepare for their academi
 This includes lectures on scientific methods and best practices, empirical methods, paper writing, 
 composition of research project proposals, etc. 
 
-FAME is envisaged as a forum for exchange between its participants with social life sessions to foster interaction between the participants, and includes hands-on experience classes and poster sessions that are open to all attendees. The school will take place at [Johannes Kepler University in Linz, Austria](venue),
-in the week preceding the start of the [MODELS'26 conference](https://conf.researchr.org/home/models-2026){:target="_blank"}.
+FAME is envisaged as a forum for exchange between its participants with social life sessions to foster interaction between the participants, and includes hands-on experience classes and poster sessions that are open to all attendees. A successful [first edition of the FAME school](https://fame-school.github.io/fame-school-2024/){:target="_blank"} was held in Linz in 2024. The second FAME school will take place in Málaga, in the week preceding the start of the [MODELS'26 conference](https://conf.researchr.org/home/models-2026){:target="_blank"}.
 
 ### We look forward to your participation!
 
