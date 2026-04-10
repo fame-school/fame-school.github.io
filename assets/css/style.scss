@@ -5,3 +5,6 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+//@use  "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+//@use  "minima/initialize" as *;

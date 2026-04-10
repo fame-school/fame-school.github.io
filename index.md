@@ -13,6 +13,13 @@ title: FAME – 2nd International School on Foundations and Advances of Model-Ba
 
 ### Colocated with [MODELS'26](https://conf.researchr.org/home/models-2026){:target="_blank"}
 
+## Important Dates
+
+|---|---|
+|Application deadline | June 12th, 2026 (AoE) |
+|Notifications of acceptance or rejection | July 1st |
+|School | September 30 – October 2, 2026 | 
+
 ---
 
 Over the course of the past decades, software engineering has reached a level of maturity that requires 
@@ -58,11 +65,3 @@ FAME is envisaged as a forum for exchange between its participants with social l
 
 ### We look forward to your participation!
 
----
-
-## Important Dates
-
-|---|---|
-|Application deadline | TBD |
-|Notifications of acceptance or rejection | TBD |
-|School | September 30 – October 2, 2026 | 
