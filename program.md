@@ -35,11 +35,13 @@ The program consists of lectures and practical sessions by renowned speakers. Le
 
 ### AI & MDE [T]
 
+- Title: **The evolving friendship between AI and Software Modeling: From early automation to LLM-augmented practice**
 - Speaker: Lola Burgeño
 
-[Bio]
+Abstract: _Model-Driven Engineering (MDE) has traditionally leveraged automation through models, transformations, and rule-based techniques. Today, advances in Large Language Models (LLMs) are enabling a new generation of AI-driven support. This talk revisits the evolution of AI and MDE and highlights recent advances across the software design phase, including modeling assistants, generation of realistic and diverse test cases, frameworks to assess the capabilities and limitations of LLMs for DSL code generation, techniques for detecting semantic alignments between models and specifications, and ongoing efforts to benchmark modeling datasets for use in machine learning training._
 
-[Talk description]
+Bio: _Lola Burgueño is an Associate Professor at the University of Malaga (UMA), Spain. Her research interests focus mainly on the fields of Software Engineering (SE) and of Model-Driven Software Engineering (MDE). She has made contributions to the application of artificial intelligence techniques to improve software development processes and tools; uncertainty management during the software design phase; model-based software testing, and the design of algorithms and tools for improving the performance of model transformations, among others. She is an active member of the software engineering community. She has been PC (co-)chair of ECMFA'21, SLE'22, JISBD'25 and ICWE'26. She is the General Chair of MODELS'26. She is part of the Editorial Board of the Journal on Software and Systems Modeling (SoSyM), she is a member of the Steering Committee of SLE, MODELS and JISBD, and she is part of the WG on Diversity & Inclusion of Informatics Europe._
+
 
 ### Career Path (Academic) [P]
 
@@ -132,7 +134,7 @@ The program consists of lectures and practical sessions by renowned speakers. Le
 
 ### Carreer Part (industrial) [P]
 
-- Speaker:
+- Speaker: TBA
 
 [Bio]
 
