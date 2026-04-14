@@ -101,11 +101,12 @@ Bio: _Lola Burgueño is an Associate Professor at the University of Malaga (UMA)
 
 ### Model Transformation & Management [C]
 
+- Title: **Model Processing**
 - Speaker: Dimitris Kolovos
 
-[Bio]
+Abstract: _This session will cover common model processing activities within the context of model-driven engineering, including model querying, model validation, model-to-model and model-to-text transformation. These activities will be demonstrated using selected languages and tools from the Eclipse Epsilon toolkit (https://eclipse.org/epsilon)._
 
-[Talk description]
+Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department of Computer Science at the University of York, where he researches and teaches automated and model-driven software engineering. He is also an Eclipse Foundation committer, leading the development of the open-source Epsilon model-driven software engineering platform, and an editor of the Software and Systems Modelling journal. He has co-authored more than 200 peer-reviewed papers and his research has been supported by the European Commission, UK's Engineering and Physical Sciences Research Council (EPSRC), Innovate UK and by companies such as Rolls-Royce and IBM._
 
 ### Social Event [P]
 
