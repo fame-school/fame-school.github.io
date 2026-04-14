@@ -19,7 +19,7 @@ sections:
 The program consists of lectures and practical sessions by renowned speakers. Lectures are organized in three categories:
 - [C] **Core**: Foundational topics on Model-driven engineering (MDE)
 - [T] **Topic**: Cutting edge topics that demonstrates MDE strenghts
-- [P] **Path**: time to talk about your carreer, through inspiring talks and networking opportunities.
+- [P] **Path**: time to talk about your career, through inspiring talks and networking opportunities.
 
 -------
 
@@ -45,11 +45,12 @@ Bio: _Lola Burgueño is an Associate Professor at the University of Malaga (UMA)
 
 ### Career Path (Academic) [P]
 
+- Title: **A Journey Through the Secret Life of Academics**
 - Speaker: Antonio Vallecillo
 
-[Bio]
+Abstract: _Deciding whether to pursue an academic career is rarely straightforward. Everyone seems to have an opinion, yet clear answers remain elusive. And even for those already on that path, doubts persistently arise: how to move forward, how to grow, and how to navigate the inevitable challenges along the way. In this talk, we will explore the landscape of an academic career — the key decision points, the main challenges to be addressed, and the trade-offs each choice entails. We will reflect on what success actually means in this environment, and examine the often complex relationships with peers, mentors, and students. The session will close with an open Q&A, where participants are encouraged to share their own doubts, experiences, and questions._
 
-[Talk description]
+Bio: _Antonio Vallecillo is a retired Full Professor of Software Engineering at the University of Málaga. His research spans model-based software engineering (MBSE), open distributed processing (ODP), software quality, and uncertainty quantification. Before entering academia, he spent nearly twelve years in the IT industry, working for companies including Fujitsu and ICL. He joined the University of Málaga in 1996, where he led the ATENEA research group and has been an active member of the MODELS community ever since. Throughout his career, Antonio has been active in standardisation, certification, and research evaluation, both in Spain and internationally. He has served as Vice-Rector for Postgraduate and Doctoral Studies at the University of Málaga, President of the Spanish Society for Software Engineering, and Vice-President of the Spanish Computer Science Society. He is a member of the AIAA, a Senior Member of the ACM, and a member of the Academia Europaea._
 
 ### Student Pitches [P]
 
@@ -133,7 +134,7 @@ Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department 
 
 [Talk description]
 
-### Carreer Part (industrial) [P]
+### Career Part (industrial) [P]
 
 - Speaker: TBA
 
