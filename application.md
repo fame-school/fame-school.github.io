@@ -12,3 +12,9 @@ Registration fees are set to **300 €**. It includes access to all lectures and
 ### Application process
 
 TBA
+
+
+|---|---|
+|Application deadline | June 12th, 2026 (AoE) |
+|Notifications of acceptance or rejection | July 1st |
+|School | September 30 – October 2, 2026 | 
