@@ -125,11 +125,13 @@ Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department 
 
 ### Prom POC to Tool [T]
 
+- Title: **Beyond the Proof of Concept: Building Tools that Outlive the Paper**
 - Speaker: Alfonso Pierantonio
 
-[Bio]
+Abstract: _A proof of concept proves an idea; a tool serves a community. The distance between the two is rarely measured in features, but in commitments to users, stability, documentation, and the unglamorous work of keeping something alive long after the paper that introduced it has been cited. The recent rise of coding agents is reshaping that distance: they offer academic software an unprecedented opportunity to demonstrate our ideas at a scale that was previously out of reach, and this matters for any discipline, but especially for MDE, where tools and applications are not illustrations of the research but the very medium in which it is conducted. In this lecture, we draw on the evolution of Jjodel, a collaborative web-based language workbench, to make that distance explicit, and close with a candid inventory of challenges, recommendations and risks for those who already have a prototype on their laptop and are wondering whether it should ever leave it._
 
-[Talk description]
+Bio: _Alfonso Pierantonio is Professor of Software Engineering at the University of L'Aquila, Italy, where he coordinates the SWEN research group. His research lies in Model-Driven and Language Engineering, with a particular focus on tool usability and design. He has authored over 200 scientific articles and has been involved in the organisation of major international conferences, including MoDELS and STAF. He serves as Editor-in-Chief of the Journal of Object Technology and sits on the editorial and advisory boards of Software and Systems Modeling and Science of Computer Programming. He has chaired ECMFA 2018 (PC Chair), STAF 2015, and MoDELS 2023 (General Chair), and is a Steering Committee member for ACM/IEEE MoDELS. He co-leads several research and industrial initiatives, and recently launched the Jjodel project ([Link to Jjodel](https://jjodel.io)), a collaborative web-based language workbench exploring how modern front-end technologies can reshape model-driven platforms._
+
 
 ### Career Part (industrial) [P]
 
