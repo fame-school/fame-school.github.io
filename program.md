@@ -62,13 +62,14 @@ Bio: _Antonio Vallecillo is a retired Full Professor of Software Engineering at 
 
 ### Product Line Modelling [T]
 
-- Speaker: Inmaculada Ayala
+- Title: **SPL in action**
+- Speaker: Lola Burgeño
 
-[Bio]
+Abstract: _The course provides a practical introduction to software product lines and variability modeling. Variability is present in our world, and variability models, such as feature models, offer an abstraction for analyzing and modeling it. In this course, we learn how to extract features from families of products and organize them in feature models for analysis. We focus on UVL, the community-driven effort to develop a universal language for modeling variability and its tool ecosystem._
 
-[Talk description]
+Bio: _Inmaculada Ayala is a senior lecturer in the Department of Languages and Computer Science at the University of Málaga. She obtained her PhD degree in Computer Science from the University of Malaga in 2013. Her work is centered on software engineering, with a specific focus on self-adaptive systems and variability modeling. Her most significant publications appear in international journals such as the Journal of Systems and Software, Information and Software Technology, and Knowledge-Based Systems. She has participated in and is currently involved in several EU, national, and regional research projects._
 
------
+------- 
 
 ## Thursday
 
