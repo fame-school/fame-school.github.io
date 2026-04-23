@@ -36,7 +36,7 @@ The program consists of lectures and practical sessions by renowned speakers. Le
 ### AI & MDE [T]
 
 - Title: **The evolving friendship between AI and Software Modeling: From early automation to LLM-augmented practice**
-- Speaker: Lola Burgeño
+- Speaker: Lola Burgueño
 
 Abstract: _Model-Driven Engineering (MDE) has traditionally leveraged automation through models, transformations, and rule-based techniques. Today, advances in Large Language Models (LLMs) are enabling a new generation of AI-driven support. This talk revisits the evolution of AI and MDE and highlights recent advances across the software design phase, including modeling assistants, generation of realistic and diverse test cases, frameworks to assess the capabilities and limitations of LLMs for DSL code generation, techniques for detecting semantic alignments between models and specifications, and ongoing efforts to benchmark modeling datasets for use in machine learning training._
 
@@ -63,7 +63,7 @@ Bio: _Antonio Vallecillo is a retired Full Professor of Software Engineering at 
 ### Product Line Modelling [T]
 
 - Title: **SPL in action**
-- Speaker: Lola Burgeño
+- Speaker: Inmaculada Ayala Viñas
 
 Abstract: _The course provides a practical introduction to software product lines and variability modeling. Variability is present in our world, and variability models, such as feature models, offer an abstraction for analyzing and modeling it. In this course, we learn how to extract features from families of products and organize them in feature models for analysis. We focus on UVL, the community-driven effort to develop a universal language for modeling variability and its tool ecosystem._
 
