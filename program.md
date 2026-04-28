@@ -92,7 +92,7 @@ Bio: _Benoit Combemale is currently Research Director at Inria, on leave from hi
 
 ### Hands-on MDE [C]
 
-- Speaker: TBA
+- Speaker: Stefan Klikovits
 
 [Bio]
 
@@ -136,7 +136,7 @@ Bio: _Alfonso Pierantonio is Professor of Software Engineering at the University
 
 ### Career Part (industrial) [P]
 
-- Speaker: TBA
+- Speaker: Paula Muñoz
 
 [Bio]
 
