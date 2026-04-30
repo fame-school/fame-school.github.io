@@ -4,10 +4,6 @@ title: Participation
 permalink: /participation/
 ---
 
-### Registration fees
-
-Registration fees are set to **300 €**. It includes access to all lectures and activities, coffee breaks and lunches on the three days of the school. 
-
 ### Application process
 Registration is limited to a **maximum of 40 participants**.  
 Applicants are selected according to the application document. 
@@ -25,6 +21,8 @@ Please submit your application document as a single PDF via e-Mail to: [fame-sch
 |Notifications of acceptance or rejection | July 1st |
 |School | September 30 – October 2, 2026 | 
 
-The registration includes attendance at all scientific sessions, social activities and a social dinner, daily lunches and coffee breaks. 
+### Registration fees
+
+Registration fees are set to **300 €**. It includes access to all lectures and activities, coffee breaks and lunches on the three days of the school. 
 
 For administrative reasons, cancellations are not admitted, but we are happy to transfer registrations to other attendees.
