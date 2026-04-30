@@ -10,7 +10,7 @@ Registration fees are set to **300 €**. It includes access to all lectures and
 
 ### Application process
 Registration is limited to a **maximum of 40 participants**.  
-Applicants are selected according to the motivation letter and their application documents. 
+Applicants are selected according to the application document. 
 
 **Application Document:**   
 Applicants should submit
