@@ -84,11 +84,12 @@ Bio: _Benoit Combemale is currently Research Director at Inria, on leave from hi
 
 ### MDE for Digital Twins [T]
 
+- Title: **MDE for Digital Twins**
 - Speaker: Judith Michael
 
-[Bio]
+Abstract: _This talk discusses the role of MDE in the engineering of digital twins for different kinds of systems and discusses how models can support both the development of digital twins and their operation at runtime. Building on recent research on model-driven digital twin engineering, the talk covers architectures, domain-specific modeling methods, model transformations, runtime models, and methods for integrating data-driven, AI-driven and model-based approaches. Examples from manufacturing, smart ecosystems, and socio-technical systems illustrate how MDE techniques can support reusable and evolvable multi-purpose digital twins. The talk further discusses current research challenges, including interoperability, evolution, quality assurance, integration of heterogeneous models, and the alignment of digital twins with systems engineering practices._
 
-[Talk description]
+Bio: _Judith Michael is full professor of Programming and Software Engineering at the University of Regensburg (Bavaria, Germany), a member of the supervisory board of the Lakeside Science & Technology Park GmbH (Austria), and the spokesperson of the modeling community within the German Informatics Society (GI). Before, she was a PostDoc and team leader at the Software Engineering chair of RWTH Aachen University (Germany). From 2021-2025, she was the deputy coordinator of the workstream A.II “Conceptual Foundations of Digital Shadows” within the German Cluster of Excellence “Internet of Production”. Judith completed her habilitation at RWTH Aachen University on “Model-Driven Engineering of Digital Twins with Informative and Assistive Services” in 2024 and received her PhD in Computer Science about Cognitive Modeling for Ambient Assistance from University of Klagenfurt (Austria) in 2014. Her research focuses on engineering complex, long-lasting, software-intensive systems in an integrated approach with different disciplines. She has experience in the engineering of digital twins, the model-driven software engineering of information and assistive systems, and software language engineering._
 
 ### Hands-on MDE [C]
 
