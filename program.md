@@ -136,11 +136,12 @@ Bio: _Alfonso Pierantonio is Professor of Software Engineering at the University
 
 ### Career Part (industrial) [P]
 
+- Title: **What Is Life Like After the PhD?**
 - Speaker: Paula Muñoz
 
-[Bio]
+Abstract: _If your PhD still consumes every waking thought, you’re probably focused on surviving reviewer comments rather than imagining what comes next. Academia teaches you to chase questions for curiosity, to build solutions without immediate profit pressure, and to think critically—sometimes as critically as Reviewer 2. But what happens when you step into industry, where priorities shift, and impact is measured differently? In this talk, I’ll share my own journey from academia to industry after finding my next chapter at Google, where I now work with one of its leading cybersecurity teams in Málaga. Together, we’ll explore what Google Málaga does, how VirusTotal became part of Google, and how a piece of Silicon Valley found its way to our city. More importantly, this session is about transition: the opportunities, uncertainties, trade-offs, and lessons learned when moving from research to real-world industry challenges. Bring your questions, your doubts, and your own experiences—and let’s have an honest conversation about what comes after the PhD._
 
-[Talk description]
+Bio: _Paula Muñoz is a Software Engineer at Google, working at its Cybersecurity Engineering Center in Málaga. She earned her PhD from the University of Málaga in February 2025 and joined Google less than a year later. During her PhD, she was part of the ATENEA research group, where her work focused on measuring the fidelity of Digital Twin behavior through time-series analysis. She has also contributed to the research community as Proceedings Co-Chair of MODELS 2024 and received several recognitions during her PhD, including winning the Student Research Competition at MODELS 2022._
 
 ### Model V&V [C]
 
