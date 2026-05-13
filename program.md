@@ -56,10 +56,6 @@ Bio: _Antonio Vallecillo is a retired Full Professor of Software Engineering at 
 
 - Facilitators: Leen Lambers & Sébastien Mosser
 
-[Bio]
-
-[Talk description]
-
 ### Product Line Modelling [T]
 
 - Title: **SPL in action**
