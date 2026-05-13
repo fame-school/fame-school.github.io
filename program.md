@@ -154,6 +154,4 @@ Bio: _Paula Muñoz is a Software Engineer at Google, working at its Cybersecurit
 
 - Facilitators: Leen Lambers & Sébastien Mosser
 
-[Bio]
 
-[Talk description]
