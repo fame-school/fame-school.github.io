@@ -93,11 +93,13 @@ Bio: _Judith Michael is full professor of Programming and Software Engineering a
 
 ### Hands-on MDE [C]
 
+- Title: **Hands-On: Model-Driven Optimization**
 - Speaker: Stefan Klikovits
 
-[Bio]
+Abstract: _In this hands-on session we will explore the capabilities of model-driven optimization (MDO). Specifically, we will use MOMoT, a MDO tool that builds on EMF and Henshin to search for model transformation sequences for a simple maze-traversing game. MOMoT uses genetic algorithms for its implementation, enabling a broad application to many target domains._
 
-[Talk description]
+Bio: _Stefan Klikovits is a postdoctoral researcher at the Institute of Business Informatics – Software Engineering (BISE) at Johannes Kepler University Linz, Austria. His research lies at the intersection of model-driven engineering (MDE), domain-specific languages, digital twins, search-based software testing, and quantum software engineering. He obtained his PhD in Computer Science from the University of Geneva, after which he undertook postdoctoral research in Japan on the testing of autonomous driving systems (ADS). His recent work spans the co-evolution of digital twins, search-based generation and diversity analysis of test scenarios for ADS, and the engineering of quantum software._
+
 
 ### Model Transformation & Management [C]
 
