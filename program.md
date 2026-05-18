@@ -119,7 +119,7 @@ Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department 
 ### Model-based Testing [T]
 
 - Title: **Model-based testing (in the era of autonomous systems and modeling assistants)**
-- Speakers: Zoltán Micskei & Dániel Várro
+- Speakers: Zoltán Micskei & Dániel Varró
 
 Abstract: _Model-based testing is testing based on or involving models. Numerous software and system testing activities can be supported by models, ranging from sketching user scenarios to validate to generating fully executable test scripts. This talk will overview the principles of model-based testing, overview the process, and summarize key techniques and algorithms used for test case or test data generation. As a particular challenge specific to model-driven engineering, we will cover how to generate a consistent, realistic, and diverse set of models in a scalable way that can be used as test data for modeling tools or as system level testing of autonomous cyber-physical systems. A further application will investigate how modern modeling assistants driven by AI agents can be tested. The talk will illustrate the various techniques on cases from the automotive, railway, and maritime domains._
 
