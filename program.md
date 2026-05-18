@@ -27,9 +27,12 @@ The program consists of lectures and practical sessions by renowned speakers. Le
 
 ### Opening & What is MDE? [C]
 
+- Title: **Model-Driven Engineering: Foundations and Challenges**
 - Speaker: Juan de Lara
 
-[Bio]
+Abstract: _This introductory session will present the main ideas behind model-driven engineering (MDE), will dive into its core concepts and methods, and discuss its role in modern software engineering practice. Through examples of successful applications and tools, the talk will illustrate how MDE has evolved over time, how it relates to other development paradigms, and which challenges and opportunities it faces today, especially with the growing impact of AI-assisted software development._
+
+Bio: _Juan de Lara is full professor at the computer science department of the Universidad Autónoma of Madrid (Spain), where he leads the modelling and software engineering research team (http://miso.es) together with Esther Guerra. His main research interests are in automated software engineering, model-driven development, low-code development, domain-specific languages and language engineering, conversational agents and intelligent assistants. This research has led to building many practical tools including Asymob, AToM3, metaDepth, merlin, and Gotten, and the publication of more than 270 papers in international journals and conferences. He has been the PC co-chair of several conferences within his research areas, like MODELS, SLE, ICGT, ICMT and FASE, he is on the editorial board of the SoSyM journal (Springer), and has been involved in the organisation of workshops on topics like flexible modelling, multi-level modelling and low-code development._
 
 [Talk description]
 
@@ -117,7 +120,7 @@ Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department 
 
 ### Model-based Testing [T]
 
-- Speaker: Zoltàn Micskei & Daniel Vàrro
+- Speaker: Zoltán Micskei & Dániel Várro
 
 [Bio]
 
