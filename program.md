@@ -118,11 +118,14 @@ Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department 
 
 ### Model-based Testing [T]
 
-- Speaker: Zoltán Micskei & Dániel Várro
+- Title: **Model-based testing (in the era of autonomous systems and modeling assistants)**
+- Speakers: Zoltán Micskei & Dániel Várro
 
-[Bio]
+Abstract: _Model-based testing is testing based on or involving models. Numerous software and system testing activities can be supported by models, ranging from sketching user scenarios to validate to generating fully executable test scripts. This talk will overview the principles of model-based testing, overview the process, and summarize key techniques and algorithms used for test case or test data generation. As a particular challenge specific to model-driven engineering, we will cover how to generate a consistent, realistic, and diverse set of models in a scalable way that can be used as test data for modeling tools or as system level testing of autonomous cyber-physical systems. A further application will investigate how modern modeling assistants driven by AI agents can be tested. The talk will illustrate the various techniques on cases from the automotive, railway, and maritime domains._
 
-[Talk description]
+Bio 1: _Zoltán Micskei is an associate professor at the Budapest University of Technology and Economics, leading the Critical Systems Research Group. His research interests include software testing and model-based engineering, favoring empirical studies. He served as the general co-chair for DISC’19. A publication he co-authored won the 10-Year Most Influential Regular Paper award for the SoSyM journal in 2021. He is a member of the Hungarian Young Academy, and a Senior Member of ACM._
+
+Bio 2: _Dániel Varró is a WASP professor at Linköping University, Sweden and an adjunct professor at McGill University, Canada and at BME, Hungary.  He is a former research chair of the Lendület program of the Hungarian Academy of Sciences. He is a co-author of more than 200 scientific papers with eight Distinguished Paper Awards, and three Most Influential Paper Awards. He is the current steering committee chair for the MODELS conference series, serves on the editorial board of Software and Systems Modeling._
 
 ### Prom POC to Tool [T]
 
