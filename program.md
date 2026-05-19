@@ -143,7 +143,9 @@ Abstract: _A proof of concept proves an idea; a tool serves a community. The dis
 
 Bio: _Alfonso Pierantonio is Professor of Software Engineering at the University of L'Aquila, Italy, where he coordinates the SWEN research group. His research lies in Model-Driven and Language Engineering, with a particular focus on tool usability and design. He has authored over 200 scientific articles and has been involved in the organisation of major international conferences, including MoDELS and STAF. He serves as Editor-in-Chief of the Journal of Object Technology and sits on the editorial and advisory boards of Software and Systems Modeling and Science of Computer Programming. He has chaired ECMFA 2018 (PC Chair), STAF 2015, and MoDELS 2023 (General Chair), and is a Steering Committee member for ACM/IEEE MoDELS. He co-leads several research and industrial initiatives, and recently launched the Jjodel project ([Link to Jjodel](https://jjodel.io)), a collaborative web-based language workbench exploring how modern front-end technologies can reshape model-driven platforms._
 
+### Collaborative Work Session [P]
 
+- Facilitators: Leen Lambers & Sébastien Mosser
 
 
 ### Model V&V [C]
