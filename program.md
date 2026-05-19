@@ -12,9 +12,10 @@ sections:
 | :--- | :--- | :--- | :--- |
 | 09:00 | Opening & What is MDE? | Language Engineering | Model-Based Testing |
 | 11:00 | AI & MDE | MDE for DT  | From PoC to tool  |
-| 12:00 | Career Path (Academic)  | Hands-on MDE | Career Path (Industrial) |
+| 12:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
 | 14:30 | Students Pitch | Model Transformation & Management | Model V&V  |
-| 16:30 | Product Line Modeling | Social event | Collaborative work |
+| 16:30 | Product Line Modeling | Career Path (Industrial) | Collaborative Work |
+
 
 The program consists of lectures and practical sessions by renowned speakers. Lectures are organized in three categories:
 - [C] **Core**: Foundational topics on Model-driven engineering (MDE)
@@ -107,10 +108,16 @@ Abstract: _This session will cover common model processing activities within the
 
 Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department of Computer Science at the University of York, where he researches and teaches automated and model-driven software engineering. He is also an Eclipse Foundation committer, leading the development of the open-source Epsilon model-driven software engineering platform, and an editor of the Software and Systems Modelling journal. He has co-authored more than 200 peer-reviewed papers and his research has been supported by the European Commission, UK's Engineering and Physical Sciences Research Council (EPSRC), Innovate UK and by companies such as Rolls-Royce and IBM._
 
-### Social Event [P]
+### Career Part (industrial) [P]
 
-[To be announced]
+- Title: **What Is Life Like After the PhD?**
+- Speaker: Paula Muñoz
 
+Note: _This talk will be combined with a visit at GSEC Málaga. The talk will place in the GSEC auditorium._  
+
+Abstract: _If your PhD still consumes every waking thought, you’re probably focused on surviving reviewer comments rather than imagining what comes next. Academia teaches you to chase questions for curiosity, to build solutions without immediate profit pressure, and to think critically—sometimes as critically as Reviewer 2. But what happens when you step into industry, where priorities shift, and impact is measured differently? In this talk, I’ll share my own journey from academia to industry after finding my next chapter at Google, where I now work with one of its leading cybersecurity teams in Málaga. Together, we’ll explore what Google Málaga does, how VirusTotal became part of Google, and how a piece of Silicon Valley found its way to our city. More importantly, this session is about transition: the opportunities, uncertainties, trade-offs, and lessons learned when moving from research to real-world industry challenges. Bring your questions, your doubts, and your own experiences—and let’s have an honest conversation about what comes after the PhD._
+
+Bio: _Paula Muñoz is a Software Engineer at Google, working at its Cybersecurity Engineering Center in Málaga. She earned her PhD from the University of Málaga in February 2025 and joined Google less than a year later. During her PhD, she was part of the ATENEA research group, where her work focused on measuring the fidelity of Digital Twin behavior through time-series analysis. She has also contributed to the research community as Proceedings Co-Chair of MODELS 2024 and received several recognitions during her PhD, including winning the Student Research Competition at MODELS 2022._
 
 -------
 
@@ -137,14 +144,7 @@ Abstract: _A proof of concept proves an idea; a tool serves a community. The dis
 Bio: _Alfonso Pierantonio is Professor of Software Engineering at the University of L'Aquila, Italy, where he coordinates the SWEN research group. His research lies in Model-Driven and Language Engineering, with a particular focus on tool usability and design. He has authored over 200 scientific articles and has been involved in the organisation of major international conferences, including MoDELS and STAF. He serves as Editor-in-Chief of the Journal of Object Technology and sits on the editorial and advisory boards of Software and Systems Modeling and Science of Computer Programming. He has chaired ECMFA 2018 (PC Chair), STAF 2015, and MoDELS 2023 (General Chair), and is a Steering Committee member for ACM/IEEE MoDELS. He co-leads several research and industrial initiatives, and recently launched the Jjodel project ([Link to Jjodel](https://jjodel.io)), a collaborative web-based language workbench exploring how modern front-end technologies can reshape model-driven platforms._
 
 
-### Career Part (industrial) [P]
 
-- Title: **What Is Life Like After the PhD?**
-- Speaker: Paula Muñoz
-
-Abstract: _If your PhD still consumes every waking thought, you’re probably focused on surviving reviewer comments rather than imagining what comes next. Academia teaches you to chase questions for curiosity, to build solutions without immediate profit pressure, and to think critically—sometimes as critically as Reviewer 2. But what happens when you step into industry, where priorities shift, and impact is measured differently? In this talk, I’ll share my own journey from academia to industry after finding my next chapter at Google, where I now work with one of its leading cybersecurity teams in Málaga. Together, we’ll explore what Google Málaga does, how VirusTotal became part of Google, and how a piece of Silicon Valley found its way to our city. More importantly, this session is about transition: the opportunities, uncertainties, trade-offs, and lessons learned when moving from research to real-world industry challenges. Bring your questions, your doubts, and your own experiences—and let’s have an honest conversation about what comes after the PhD._
-
-Bio: _Paula Muñoz is a Software Engineer at Google, working at its Cybersecurity Engineering Center in Málaga. She earned her PhD from the University of Málaga in February 2025 and joined Google less than a year later. During her PhD, she was part of the ATENEA research group, where her work focused on measuring the fidelity of Digital Twin behavior through time-series analysis. She has also contributed to the research community as Proceedings Co-Chair of MODELS 2024 and received several recognitions during her PhD, including winning the Student Research Competition at MODELS 2022._
 
 ### Model V&V [C]
 
