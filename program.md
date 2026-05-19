@@ -14,7 +14,7 @@ sections:
 | 11:00 | AI & MDE | MDE for DT  | From PoC to tool  |
 | 12:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
 | 14:30 | Students Pitch | Model Transformation & Management | Model V&V  |
-| 16:30 | Product Line Modeling | Career Path (Industrial) | Collaborative Work |
+| 16:30 | Product Line Modeling | Career Path (Industrial) & Social Event | Collaborative Work |
 
 
 The program consists of lectures and practical sessions by renowned speakers. Lectures are organized in three categories:
