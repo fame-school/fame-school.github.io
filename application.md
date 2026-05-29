@@ -17,7 +17,7 @@ Applicants should submit
 Please submit your application document as a single PDF via e-Mail to: [fame-school@uma.es](mailto:fame-school@uma.es) 
 
 |---|---|
-|Application deadline | June 12th, 2026 (AoE) |
+|Application deadline | June 19th, 2026 (AoE) |
 |Notifications of acceptance or rejection | July 1st |
 |School | September 30 – October 2, 2026 | 
 
