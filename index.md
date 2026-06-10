@@ -16,7 +16,7 @@ title: FAME – 2nd International School on Foundations and Advances of Model-Ba
 ## Important Dates
 
 |---|---|
-|Application deadline | June 12th, 2026 (AoE) |
+|Application deadline | June 19th, 2026 (AoE) |
 |Notifications of acceptance or rejection | July 1st |
 |School | September 30 – October 2, 2026 | 
 
