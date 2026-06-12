@@ -12,7 +12,7 @@ Applicants are selected according to the application document.
 Applicants should submit
 - a motivation letter (max. 2 pages), describing research interests, research experience, and the relation to the school’s topic;
 - a short academic CV (max. 2 pages) containing their personal details incl. name, academic identifier (e.g. Google Scholar profile, ORCiD, website), current position & research institution, previous education & positions (academic/industry), research interests, any publications (max 3, incl. DOI/URL), additional research achievements;
-- a supporting letter by the PhD supervisor / study advisor to acknowledge the students’ institutional and financial support.
+- Students only: a supporting letter by the PhD supervisor / study advisor to acknowledge the students’ institutional and financial support.
 
 Please submit your application document as a single PDF via e-Mail to: [fame-school@uma.es](mailto:fame-school@uma.es) 
 
