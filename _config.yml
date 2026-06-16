@@ -31,6 +31,7 @@ plugins:
 header_pages:
   - application.md
   - venue.md
+  - accommodation.md
   - program.md
   - organization.md
 
