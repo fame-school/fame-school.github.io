@@ -7,7 +7,7 @@ permalink: /organization/
 ### Organizing Committee
 * [Stefan Klikovits](https://klikovits.net){:target="_blank"}, Johannes Kepler University Linz, Austria (Local Organizer)
 * [Leen Lambers](https://www.b-tu.de/en/praktische-informatik-software-systemtechnik/team/chair){:target="_blank"}, Brandenburg University of Technology Cottbus-Senftenberg, Germany (Program Chair)
-* [Cristian Martin Fernandez](http://lcc.uma.es/%7Ecmf/){:target="_blank"}, University of Malaga, Spain (Local Organizer)
+* [Cristian Martin Fernandez](https://www.linkedin.com/in/cristian-martin-fernandez-01139686/){:target="_blank"}, University of Malaga, Spain (Local Organizer)
 * [Sébastien Mosser](https://mosser.github.io/){:target="_blank"}, Mc Master University, Canada (Program chair)
 
 ### Steering Committee

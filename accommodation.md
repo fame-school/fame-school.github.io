@@ -17,7 +17,7 @@ From both areas, the trip to the venue typically takes 20–30 minutes by metro.
 
 Please note that the prices below are indicative estimates for the school dates (September 30 – October 2, 2026) and may vary depending on booking date and availability. Note that MODELS'26 takes place concurrently in the same city, so demand for accommodation is expected to be high — we strongly recommend booking well in advance.
 
-### Recommended Budget Accommodation
+### Budget Hotels
 
 1. [Carlos V Málaga](https://www.booking.com/hotel/es/carlos-v-malaga.html) (historic centre)
 A simple and well-located hotel in Málaga’s historic centre, within walking distance of the main attractions and with convenient access to metro connections towards the university campus. A good option for participants who prefer a private room while staying in the city centre.
