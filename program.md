@@ -102,7 +102,7 @@ Bio: _Stefan Klikovits is a postdoctoral researcher at the Institute of Business
 ### Model Transformation & Management [C]
 
 - Title: **Model Processing**
-- Speaker: Antonio Garcia-Dominguez
+- Speaker: Antonio García-Domínguez
 
 Abstract: _This session will cover common model processing activities within the context of model-driven engineering, including model querying, model validation, model-to-model and model-to-text transformation. These activities will be demonstrated using selected languages and tools from the [Eclipse Epsilon toolkit](https://eclipse.org/epsilon)._
 
