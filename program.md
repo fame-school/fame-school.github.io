@@ -102,11 +102,17 @@ Bio: _Stefan Klikovits is a postdoctoral researcher at the Institute of Business
 ### Model Transformation & Management [C]
 
 - Title: **Model Processing**
-- Speaker: Dimitris Kolovos
+- Speaker: Antonio Garcia-Dominguez
 
 Abstract: _This session will cover common model processing activities within the context of model-driven engineering, including model querying, model validation, model-to-model and model-to-text transformation. These activities will be demonstrated using selected languages and tools from the [Eclipse Epsilon toolkit](https://eclipse.org/epsilon)._
 
-Bio: _Dimitris Kolovos is a Professor of Software Engineering in the Department of Computer Science at the University of York, where he researches and teaches automated and model-driven software engineering. He is also an Eclipse Foundation committer, leading the development of the open-source Epsilon model-driven software engineering platform, and an editor of the Software and Systems Modelling journal. He has co-authored more than 200 peer-reviewed papers and his research has been supported by the European Commission, UK's Engineering and Physical Sciences Research Council (EPSRC), Innovate UK and by companies such as Rolls-Royce and IBM._
+Bio: _Dr. Antonio Garcia-Dominguez is a Senior Lecturer in Software Engineering at the Department of Computer
+Science of the University of York. Antonio's main research interests are automated software engineering (whether
+model-driven and/or AI-supported) and software testing. In addition to over 100 peer-reviewed publications in
+international conferences, journals, and book chapters, Antonio is a core contributor in several related open
+source projects. These include the Eclipse Epsilon model management languages and tools, and the Eclipse
+Hawk model indexing framework. Antonio is leading a work package on agent intercommunication protocols in
+the MOSAICO EU project on orchestrating AI agents for more reliable AI-supported software engineering._
 
 ### Career Part (industrial) [P]
 
