@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Accomodation
+title: Accommodation
 permalink: /accomodation/
 ---
 
