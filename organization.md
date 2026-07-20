@@ -5,6 +5,7 @@ permalink: /organization/
 ---
 
 ### Organizing Committee
+* [Lola Burgeño](https://lolaburgueno.github.io/){:target="_blank"}, University of Malaga, Spain (Local Organizer)
 * [Stefan Klikovits](https://klikovits.net){:target="_blank"}, Johannes Kepler University Linz, Austria (Local Organizer)
 * [Leen Lambers](https://www.b-tu.de/en/praktische-informatik-software-systemtechnik/team/chair){:target="_blank"}, Brandenburg University of Technology Cottbus-Senftenberg, Germany (Program Chair)
 * [Cristian Martin Fernandez](https://www.linkedin.com/in/cristian-martin-fernandez-01139686/){:target="_blank"}, University of Malaga, Spain (Local Organizer)
