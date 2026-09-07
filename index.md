@@ -65,3 +65,14 @@ FAME is envisaged as a forum for exchange between its participants with social l
 
 ### We look forward to your participation!
 
+# Sponsors
+
+We thank the following partners who kindly helped enable the FAME School.
+
+## <a href="https://eapls.org/" target="_blank">European Association for Programming Languages and Systems (EAPLS) </a> 
+<div style="display: grid; place-items: center;">
+<a href="https://eapls.org/" target="_blank">
+<img src="/assets/sponsors/EAPLS.jpg" width="400" title="EAPLS – Logo"/>
+</a>
+</div>
+
