@@ -38,7 +38,7 @@ Bio: _Juan de Lara is full professor at the computer science department of the U
 ### AI & MDE [T]
 
 - Title: **The evolving friendship between AI and Software Modeling: From early automation to LLM-augmented practice**
-- Speakers: Lola Burgueño and Gunter Mussbacher
+- Speakers: Lola Burgueño & Gunter Mussbacher
 
 Abstract: _Model-Driven Engineering (MDE) has traditionally leveraged automation through models, transformations, and rule-based techniques. Today, advances in Large Language Models (LLMs) are enabling a new generation of AI-driven support. This talk revisits the evolution of AI and MDE and highlights recent advances across the software design phase, including modeling assistants, generation of realistic and diverse test cases, frameworks to assess the capabilities and limitations of LLMs for DSL code generation, techniques for detecting semantic alignments between models and specifications, and ongoing efforts to benchmark modeling datasets for use in machine learning training._
 
