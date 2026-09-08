@@ -121,7 +121,7 @@ the MOSAICO EU project on orchestrating AI agents for more reliable AI-supported
 - Title: **What Is Life Like After the PhD?**
 - Speaker: Paula Muñoz
 
-Note: _This talk will be combined with a visit at GSEC Málaga. The talk will place in the GSEC auditorium._  
+Note: _This talk will be combined with a visit at GSEC Málaga. The talk will take place in the GSEC auditorium._  
 
 Abstract: _If your PhD still consumes every waking thought, you’re probably focused on surviving reviewer comments rather than imagining what comes next. Academia teaches you to chase questions for curiosity, to build solutions without immediate profit pressure, and to think critically—sometimes as critically as Reviewer 2. But what happens when you step into industry, where priorities shift, and impact is measured differently? In this talk, I’ll share my own journey from academia to industry after finding my next chapter at Google, where I now work with one of its leading cybersecurity teams in Málaga. Together, we’ll explore what Google Málaga does, how VirusTotal became part of Google, and how a piece of Silicon Valley found its way to our city. More importantly, this session is about transition: the opportunities, uncertainties, trade-offs, and lessons learned when moving from research to real-world industry challenges. Bring your questions, your doubts, and your own experiences—and let’s have an honest conversation about what comes after the PhD._
 
