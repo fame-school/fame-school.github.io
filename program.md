@@ -10,12 +10,12 @@ sections:
 
 | Schedule | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- |
-| 09:00 | Opening & What is MDE? | Language Engineering | Model-Based Testing |
-| 11:00 | AI & MDE | MDE for DT  | From PoC to tool  |
-| 12:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
-| 14:30 | Students Pitch | Model Transformation & Management | Model V&V  |
-| 16:30 | Product Line Modeling | Career Path (Industrial) & Social Event | Collaborative Closing Session |
-
+| 09:00 - 10:30 | Opening & What is MDE? | Language Engineering | Model-Based Testing |
+| 11:00 - 12:00 | AI & MDE | MDE for DT  | From PoC to tool  |
+| 12:00 - 13:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
+| 14:30 - 16:00 | Students Pitch | Model Transformation & Management | Model V&V  |
+| 16:30 - 17:30 | Product Line Modeling | Excursion to GSEC Málaga | Collaborative Closing Session |
+| Evening | Opening Dinner 20:00 | Career Path (Industrial) | Guided Tour City Centre 19: 00 |
 
 The program consists of lectures and practical sessions by renowned speakers. Lectures are organized in three categories:
 - [C] **Core**: Foundational topics on Model-driven engineering (MDE)
