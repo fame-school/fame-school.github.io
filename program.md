@@ -15,7 +15,7 @@ sections:
 | 12:00 - 13:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
 | 14:30 - 16:00 | Students Pitch | Model Transformation & Management | Model V&V  |
 | 16:30 - 17:30 | Product Line Modeling | Excursion to GSEC Málaga | Collaborative Closing Session |
-| Evening | Opening Dinner 20:00 | Career Path (Industrial) | Guided Tour City Centre 19:00 |
+| Evening | Opening Dinner 20:00 | Career Path (Industrial) 18:00 | Guided Tour City Centre 19:00 |
 
 The program consists of lectures and practical sessions by renowned speakers. Lectures are organized in three categories:
 - [C] **Core**: Foundational topics on Model-driven engineering (MDE)
