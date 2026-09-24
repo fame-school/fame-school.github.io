@@ -11,9 +11,12 @@ sections:
 | Schedule | Wednesday | Thursday | Friday |
 | :--- | :--- | :--- | :--- |
 | 09:00 - 10:30 | Opening & What is MDE? | Language Engineering | Model-Based Testing |
+| 10:30 - 11:00 | Coffee break | Coffee break | Coffee break |
 | 11:00 - 12:00 | AI & MDE | MDE for DT  | From PoC to tool  |
 | 12:00 - 13:00 | Career Path (Academic)  | Hands-on MDE | Collaborative Work |
+| 13:00 - 14:30 | Lunch | Lunch | Lunch |
 | 14:30 - 16:00 | Students Pitch | Model Transformation & Management | Model V&V  |
+| 16:00 - 16:30 | Coffee break | Coffee break | Coffee break |
 | 16:30 - 17:30 | Product Line Modeling | Excursion to GSEC Málaga | Collaborative Closing Session |
 | Evening | Opening Dinner 20:00 | Career Path (Industrial) 18:00 | Guided Tour City Centre 19:00 |
 
